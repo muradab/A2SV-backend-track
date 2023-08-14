@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\A2SV\\A2SV Backend Track\\A2SV-backend-track\\A2SV-backend-track.csproj": {}
+  },
+  "projects": {
+    "F:\\A2SV\\A2SV Backend Track\\A2SV-backend-track\\A2SV-backend-track.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\A2SV\\A2SV Backend Track\\A2SV-backend-track\\A2SV-backend-track.csproj",
+        "projectName": "A2SV-backend-track",
+        "projectPath": "F:\\A2SV\\A2SV Backend Track\\A2SV-backend-track\\A2SV-backend-track.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "F:\\A2SV\\A2SV Backend Track\\A2SV-backend-track\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.315\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
