@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
     
     public enum TaskCategory {
-        None = 0,
-        Work = 1,
-        Personal = 2,
+        None 0,
+        Work 1,
+        Personal 2,
         Shopping = 4,
         A2SV = 8,
         Spritual = 16,
